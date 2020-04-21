@@ -1,0 +1,8 @@
+#!/bin/sh
+#
+#    01-logo
+#
+
+printf "\n"
+/usr/bin/toilet -F crop -f Georgia11.flf `hostname`
+printf "\n"
