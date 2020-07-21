@@ -4,5 +4,5 @@
 #
 
 printf "\n"
-/usr/bin/toilet -t -F crop -f mono9.flf `hostname`
+/usr/bin/toilet -t -F crop -f mono9.tlf `hostname`
 printf "\n"
